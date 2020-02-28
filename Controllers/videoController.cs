@@ -3,30 +3,18 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Web;
 using System.Web.Mvc;
-using System.Data;
-using System.Data.SqlClient;
-using MVCPlantilla.Utilerias;
 
 namespace MvcPlantilla.Controllers
 {
-    public class videoController : Controller
+    public class VideoController : Controller
     {
         //
-        // GET: /video/
+        // GET: /Video/
 
         public ActionResult Index()
         {
             return View();
         }
-
-        
-
-          [HttpPost] public ActionResult create (int idVideo)
-          {
-        List<SqlParameter> Parametros = new List<SqlParameter>();
-        Parametros.Add(new SqlParameter("@idVideo", idVideo));
-
-          }
 
     }
 }
