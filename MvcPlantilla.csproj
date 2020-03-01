@@ -78,8 +78,10 @@
     <Content Include="Global.asax" />
     <Content Include="Content\Site.css" />
     <Content Include="Views\Home\Index.aspx" />
-    <Content Include="Views\Home\VerVideo.aspx" />
-    <Content Include="Views\Video\Index.aspx" />
+    <Content Include="Views\Video\AddVideo.aspx" />
+    <Content Include="Views\Video\DeleteReproduccionesVideo.aspx" />
+    <Content Include="Views\Video\DeleteVideo.aspx" />
+    <Content Include="Views\Video\UpdateVideo.aspx" />
     <Content Include="Web.config">
       <SubType>Designer</SubType>
     </Content>

@@ -4,11 +4,11 @@
 
 <html xmlns="http://www.w3.org/1999/xhtml" >
 <head runat="server">
-    <title>VerVideo</title>
+    <title>DeleteReproduccionesVideo</title>
 </head>
 <body>
     <div>
-    <h1>Vista para ver el video</h1>
+    <h1>Vista para eliminar video por sus reproducciones</h1>
     </div>
 </body>
 </html>
