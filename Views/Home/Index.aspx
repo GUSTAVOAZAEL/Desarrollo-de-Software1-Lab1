@@ -10,9 +10,11 @@
     <div>
     <h1>Bienvenido a la Pagina</h1>
     <hr />
-    <a href="http://localhost:4746/Video/DeleteVideo">Eliminar Video</a>
+    <a href="http://localhost:4746/Video/VerVideo">Ver Videos</a>
     <h1></h1>
     <a href="http://localhost:4746/Video/AddVideo">Agregar Video</a>
+    <h1></h1>
+    <a href="http://localhost:4746/Video/DeleteVideo">Eliminar Video</a>
     <h1></h1>
     <a href="http://localhost:4746/Video/UpdateVideo">Actualizar Video</a>
     <h1></h1>

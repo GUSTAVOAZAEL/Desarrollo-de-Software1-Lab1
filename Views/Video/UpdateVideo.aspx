@@ -9,6 +9,26 @@
 <body>
     <div>
     <h1>Vista para actualizar video</h1>
+    <form action="/Video/UpdateVideo" method="post">
+    <fieldset>
+    <legend>Datos del video</legend>
+        <label for= "idVideo">IdVideo</label>
+        <input type="text" name="idVideo"/>
+        <br><br/>
+        <label for= "titulo">Titulo</label>
+        <input type="text" name="titulo"/>
+
+        <label for= "repro">Reproducciones</label>
+        <input type="text" name="repro"/>
+
+        <label for= "url">URL</label>
+        <input type="text" name="url"/>
+
+        <input type="submit" value="Editar Video" />
+    
+    </fieldset>
+
+    </form>
     </div>
 </body>
 </html>

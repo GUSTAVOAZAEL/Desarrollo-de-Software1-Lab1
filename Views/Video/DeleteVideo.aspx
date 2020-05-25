@@ -9,7 +9,15 @@
 <body>
     <div>
     <h1>Vista para eliminar video</h1>
+    <form action="/Video/DeleteVideo" method="post">
+    <fieldset>
+    <legend>Datos del video</legend>
+        <label for= "idVideo">IdVideo</label>
+        <input type="text" name="idVideo"/>
 
+        <input type="submit" value="Eliminar video" />
+    </fieldset>
+    </form>
     </div>
 </body>
 </html>

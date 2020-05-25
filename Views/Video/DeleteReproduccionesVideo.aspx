@@ -9,6 +9,14 @@
 <body>
     <div>
     <h1>Vista para eliminar video por sus reproducciones</h1>
+    <form action="/Video/DeleteReproduccionesVideo" method="post">
+            <fieldset>
+    <legend>Datos del video</legend>
+        <label for= "repro">Reproducciones</label>
+        <input type="text" name="repro"/>
+
+        <input type="submit" value="Eliminar video" />
+    </fieldset>
     </div>
 </body>
 </html>

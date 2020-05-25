@@ -12,3 +12,8 @@ C:\Users\gusta\Documents\GUSTAVO\GIT\DESARROLLO SOFTWARE ACT1\DesarrolloDeSoftwa
 C:\Users\gusta\Documents\GUSTAVO\GIT\DESARROLLO SOFTWARE ACT1\DesarrolloDeSoftwaru-Lab1\bin\MvcPlantilla.dll
 C:\Users\gusta\Documents\GUSTAVO\GIT\DESARROLLO SOFTWARE ACT1\DesarrolloDeSoftwaru-Lab1\bin\MvcPlantilla.pdb
 C:\Users\gusta\Documents\GUSTAVO\GIT\DESARROLLO SOFTWARE ACT1\DesarrolloDeSoftwaru-Lab1\obj\Debug\MvcPlantilla.pdb
+C:\Users\hp\Desktop\TAVO\FACULTAD\DESARROLLO SOFTWARE\LABORATORIO1 V2\Desarrollo-de-Software1-Lab1\bin\MvcPlantilla.dll
+C:\Users\hp\Desktop\TAVO\FACULTAD\DESARROLLO SOFTWARE\LABORATORIO1 V2\Desarrollo-de-Software1-Lab1\bin\MvcPlantilla.pdb
+C:\Users\hp\Desktop\TAVO\FACULTAD\DESARROLLO SOFTWARE\LABORATORIO1 V2\Desarrollo-de-Software1-Lab1\obj\Debug\MvcPlantilla.csprojResolveAssemblyReference.cache
+C:\Users\hp\Desktop\TAVO\FACULTAD\DESARROLLO SOFTWARE\LABORATORIO1 V2\Desarrollo-de-Software1-Lab1\obj\Debug\MvcPlantilla.dll
+C:\Users\hp\Desktop\TAVO\FACULTAD\DESARROLLO SOFTWARE\LABORATORIO1 V2\Desarrollo-de-Software1-Lab1\obj\Debug\MvcPlantilla.pdb
